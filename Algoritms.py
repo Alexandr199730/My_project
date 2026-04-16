@@ -43,5 +43,6 @@ target = 23
 result = binary_search(numbers, target)
 print("Элемент найден на индексе:", result) 
 print("Демонстрация поиска")
+
 # n = 1234//10
 # print(n)
